@@ -1,0 +1,6 @@
+{
+  "name": "AI Language Translator",
+  "description": "A complete, free, and responsive AI Language Translator supporting over 100 languages, designed for Python and Streamlit setups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
